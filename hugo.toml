@@ -1,0 +1,64 @@
+baseURL = 'https://krouky.me/'
+theme = "typo"
+
+pluralizeListTitles = false
+
+defaultContentLanguage = "en"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[[params.menu]]
+name = "Home"
+url = "/"
+[[params.menu]]
+name = "Blog"
+url = "/blog/"
+
+[[params.social]]
+name = "email"
+url = "krouky@duck.com"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/coci"
+
+[[params.social]]
+name = "x"
+url = "https://x.com/sorosh_safari"
+
+[[params.social]]
+name = "rss"
+url = "https://krouky.com/index.xml"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+debugCSS = false
+customCSS = []
+theme = 'light'
+
+homeIntroTitle = ""
+homeIntroContent = "Hi! I’m Soroush which i could say passionate about computers and video games. I love learning, challenging myself, and exploring the endless possibilities of software engineering. This blog is my way of sharing the journey—let’s grow together!"
+
+homeCollectionTitle = 'Blog'
+homeCollection = 'blog'
+# Lists parameters
+paginationSize = 100
+listDateFormat = '2 Jan 2006'
+
+# 404 Configuration
+head404 = "Sorry, I can't find what you want."
+sub404 = "Back to <a href='/'>Home</a>."
+
+# Color of your website's accent
+colorTheme = "#ff6565"
+# Maximum number of item in Latest Posts or Works
+latestCount = 3
+dateFmt = "Jan 02, 2006"
+
+# Code Highlighting (HighlightJS)
+highlightJs = true
+highlightJsLanguages = ["go"]
+highlightJsStyle = "ocean"
