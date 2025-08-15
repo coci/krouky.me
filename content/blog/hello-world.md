@@ -9,7 +9,7 @@ tags: ["hello-world"]
 showTags: false
 hideBackToTop: false
 ---
-Hello, World!
+Hello, World :)
 
 Here we are. My first blog post. It's a rite of passage, really. You know, like the "Hello, World!" program that every programmer writes when they pick up a new language. It's simple, it's classic, and it’s the universal way of saying, “Hey, universe, I’m here, and I’m ready to make questionable design choices.”
 
