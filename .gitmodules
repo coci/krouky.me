@@ -1,4 +1,4 @@
 [submodule "themes/typo"]
-	path = themes/typo
-	url = https://github.com/coci/typo
-	branch = main
+    path = themes/typo
+    url = https://github.com/coci/typo
+    branch = main
